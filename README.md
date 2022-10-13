@@ -1,4 +1,6 @@
-# BTA1stProject-12
+<img src="./IMG/Hello_CELO.png">
 
-COIN - CELO
-TEAM - 김원호, 민성한
+# Hello?😏 CELO!😝 앙상블(Ensemble)
+
+## TEAM : 김원호. 민성한.
+## COIN : CELO
