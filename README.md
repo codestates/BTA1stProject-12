@@ -1,4 +1,4 @@
-<img src="./IMG/Hello_CELO.png">
+<img src="./src/img/Hello_CELO.png">
 
 # Hello?😏 CELO!😝 앙상블(Ensemble)
 

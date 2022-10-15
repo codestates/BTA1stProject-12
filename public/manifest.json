@@ -1,0 +1,13 @@
+{
+  "version":"0.0.1",
+  "manifest_version":3,
+  "short_name": "Hello CELO",
+  "name": "Ensemble",
+  "action": {
+    "default_popup": "./index.html",
+    "default_icon": "./Logo.png"
+  },
+  "background": {
+    "service_worker": "./background.js"
+  }
+}
