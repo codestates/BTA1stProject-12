@@ -1,6 +1,6 @@
 {
   "name": "hellocelo",
-  "version": "1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@celo/contractkit": "^2.2.0",
@@ -8,9 +8,14 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "node-hid": "^2.1.2",
+    "python": "^0.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "secp256k1": "^4.0.3",
+    "tiny-secp256k1": "^2.2.1",
+    "usb": "^2.5.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -36,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6"
   }
 }
