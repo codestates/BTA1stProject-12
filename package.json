@@ -29,7 +29,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "server": "node server",
+    "server": "nodemon server",
     "client": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -56,6 +56,9 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.6"
+  },
+  "browser":{
+    "child_process": false
   },
   "proxy": "http://localhost:5000/"
 }
