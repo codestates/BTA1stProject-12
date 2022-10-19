@@ -1,10 +1,9 @@
-import {useCelo} from '@celo/react-celo';
-import {Bip39, RandomNumberGenerator} from '@celo/base';
-import React from 'react';
+import { useState } from 'react';
 import './App.css';
 import axios from 'axios';
 
 function App() {
+  const [status, setStatuts] = useState(1);
   
   const clickEvent = () => {
     console.log("Call Click Event");
